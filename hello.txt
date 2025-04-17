@@ -1,1 +1,3 @@
 Hello from git
+
+modifying after restore
