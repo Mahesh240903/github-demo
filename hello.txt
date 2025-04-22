@@ -3,3 +3,5 @@ Hello from git
 modifying after restore
 
 Modifying 2nd time
+
+creating conflict attempt
